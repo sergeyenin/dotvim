@@ -1,6 +1,0 @@
-[submodule "plugin/nerdtree"]
-	path = plugin/nerdtree
-	url = git://github.com/scrooloose/nerdtree.git
-[submodule "plugin/vim-rails"]
-	path = plugin/vim-rails
-	url = git://github.com/tpope/vim-rails.git
