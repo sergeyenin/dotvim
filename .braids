@@ -6,3 +6,10 @@ plugin/nerdtree:
   squashed: true
   type: git
   url: git://github.com/scrooloose/nerdtree.git
+plugin/vim-rails: 
+  branch: master
+  remote: master/braid/plugin/vim-rails
+  revision: 1599eecc7105971409d041e5acfe0fa85b23a097
+  squashed: true
+  type: git
+  url: git://github.com/tpope/vim-rails.git
