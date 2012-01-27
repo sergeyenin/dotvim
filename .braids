@@ -1,0 +1,8 @@
+--- 
+plugin/nerdtree: 
+  branch: master
+  remote: master/braid/plugin/nerdtree
+  revision: 2a0578227ebcc334da64f5e93137926388f71ce6
+  squashed: true
+  type: git
+  url: git://github.com/scrooloose/nerdtree.git
